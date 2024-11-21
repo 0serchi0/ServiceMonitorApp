@@ -1,0 +1,10 @@
+EMC GST Database Service
+gstd
+gstSnmpTrapd
+EMCGSTWebServer
+nsrd
+nwui
+nsrmqd
+nsrexecd
+nsrpsd
+NetWorker WebUI Database
