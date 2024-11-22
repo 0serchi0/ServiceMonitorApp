@@ -25,7 +25,8 @@ It's important that both files are in the same directory!
 Java should be available in one of the following system variables: %PATH% ; %JAVA_HOME% ; %NSR_JAVA_HOME%
 
 services.txt
-The entry in test.txt must exactly match the one in the service.
+The entry in test.txt must exactly match the one in the service, including spaces!
+A service can be ignored by an #
 
 for NetWorker:
 ```
