@@ -24,7 +24,5 @@ It's important that both files are in the same directory!
 
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+$ ...
 ```
