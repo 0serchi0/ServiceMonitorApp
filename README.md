@@ -34,6 +34,7 @@ EMC GST Database Service
 gstd
 gstSnmpTrapd
 EMCGSTWebServer
+#wuauserv
 nsrd
 nwui
 nsrmqd
