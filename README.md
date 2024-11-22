@@ -1,5 +1,5 @@
 # ServiceMonitorApp
-Service Monitor App for Windows
+Simple service monitor app for Windows.
 
 ![Algorithm schema](./pic1_.jpg)
 ![Algorithm schema](./pic2_.jpg)
