@@ -28,7 +28,7 @@ services.txt
 The entry in test.txt must exactly match the one in the service, including spaces!
 A service can be ignored by an #
 
-for NetWorker:
+for DELL NetWorker:
 ```
 EMC GST Database Service
 gstd
