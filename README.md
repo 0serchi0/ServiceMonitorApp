@@ -8,7 +8,7 @@ Simple service monitor app for Windows.
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [services.txt](#services.txt)
+* [Services.txt](#services.txt)
 
 ## General info
 This project is simple service monitor for Windows.
