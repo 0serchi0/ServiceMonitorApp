@@ -1,6 +1,9 @@
 # ServiceMonitorApp
 Service Monitor App for Windows
 
+![Algorithm schema](./pic1.jpg)
+![Algorithm schema](./pic2.jpg)
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
