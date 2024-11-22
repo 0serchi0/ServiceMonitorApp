@@ -27,7 +27,7 @@ Java should be available in one of the following system variables: %PATH% ; %JAV
 services.txt
 The entry in test.txt must exactly match the one in the service.
 
-for NEtWorker:
+for NetWorker:
 ```
 EMC GST Database Service
 gstd
