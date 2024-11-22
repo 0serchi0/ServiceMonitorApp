@@ -27,6 +27,7 @@ Java should be available in one of the following system variables: %PATH% ; %JAV
 
 ## services.txt
 Entries in services.txt must exactly match the names in the services, including spaces!
+
 A service can be ignored by an #
 
 for DELL NetWorker:
