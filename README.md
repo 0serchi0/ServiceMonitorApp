@@ -24,6 +24,25 @@ It's important that both files are in the same directory!
 
 Java should be available in one of the following system variables: %PATH% ; %JAVA_HOME% ; %NSR_JAVA_HOME%
 
+services.txt
+The entry in test.txt must exactly match the one in the service.
+
+for NEtWorker:
+```
+EMC GST Database Service
+gstd
+gstSnmpTrapd
+EMCGSTWebServer
+nsrd
+nwui
+nsrmqd
+nsrexecd
+nsrpsd
+NetWorker WebUI Database
+```
+
+![Algorithm schema](./pic3_.jpg)
+
 ```
 $ ...
 ```
