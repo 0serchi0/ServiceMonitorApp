@@ -8,6 +8,7 @@ Service Monitor App for Windows
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [services.txt](#services.txt)
 
 ## General info
 This project is simple service monitor for Windows.
@@ -24,8 +25,8 @@ It's important that both files are in the same directory!
 
 Java should be available in one of the following system variables: %PATH% ; %JAVA_HOME% ; %NSR_JAVA_HOME%
 
-services.txt
-The entry in test.txt must exactly match the one in the service, including spaces!
+## services.txt
+Entries in services.txt must exactly match the names in the services, including spaces!
 A service can be ignored by an #
 
 for DELL NetWorker:
