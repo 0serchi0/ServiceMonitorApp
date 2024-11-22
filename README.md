@@ -10,16 +10,18 @@ Service Monitor App for Windows
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project is simple service monitor for Windows.
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* IntelliJ IDEA
+* JAVA version "1.8.0_421"
+* Launch4j 3.5.0
 	
 ## Setup
-To run this project, install it locally using npm:
+Copy ServiceMonitorApp.exe & services.txt to the directory of your choice.
+It's important that both files are in the same directory!
+
 
 ```
 $ cd ../lorem
