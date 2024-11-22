@@ -15,13 +15,14 @@ This project is simple service monitor for Windows.
 ## Technologies
 Project is created with:
 * IntelliJ IDEA
-* JAVA version "1.8.0_421"
+* JAVA 8 (JDK 1.8)
 * Launch4j 3.5.0
 	
 ## Setup
 Copy ServiceMonitorApp.exe & services.txt to the directory of your choice.
 It's important that both files are in the same directory!
 
+Java should be available in one of the following system variables: %PATH% / %JAVA_HOME% / %NSR_JAVA_HOME%
 
 ```
 $ ...
