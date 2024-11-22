@@ -22,7 +22,7 @@ Project is created with:
 Copy ServiceMonitorApp.exe & services.txt to the directory of your choice.
 It's important that both files are in the same directory!
 
-Java should be available in one of the following system variables: %PATH% / %JAVA_HOME% / %NSR_JAVA_HOME%
+Java should be available in one of the following system variables: %PATH% ; %JAVA_HOME% ; %NSR_JAVA_HOME%
 
 ```
 $ ...
